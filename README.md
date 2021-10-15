@@ -20,7 +20,7 @@
       - User's password will be salted for secure storage on the DB
       - On log in user's will be authenticated via JWT
 
-### Future Features
+### Future Features:
   - Integration of Metamask
   - A coin for Cryptid itself, using smart contracts written in solidty
   - Trading
