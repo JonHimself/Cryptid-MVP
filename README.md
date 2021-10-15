@@ -14,7 +14,7 @@
       - Details about each crypto exchange, including description and image
   - News and Events Page:
       - News articles and events in crypto, each card will link out to the actual article/event homepage. 
-  - User can Register, Log in, and Log 0ut
+  - User can Register, Log in, and Log out
       - Users will be notifed when log in, log out, or registration is successfull/unsuccessful. 
       - Local Storage will allow user's log in information to persist through page refresh, app rerendering, and site navigation. 
       - User's password will be salted for secure storage on the DB
