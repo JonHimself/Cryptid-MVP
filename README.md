@@ -3,7 +3,7 @@
 ## What is Cryptid?
   - Cryptid is a cryptocurrency tracker. User's will be able to get information on the most popular coins, crypto exchanges, historical data, as well as news in the crypto world.
 
-###MVP Features:
+### MVP Features:
   - Landing Page :
       - Navigation Bar, snapshot of global crypto stats, snapshot of the 10 hottest coins, snap shot of several news articles
   - Cryptocurrency Page:
@@ -20,7 +20,7 @@
       - User's password will be salted for secure storage on the DB
       - On log in user's will be authenticated via JWT
 
-###Future Features
+### Future Features
   - Integration of Metamask
   - A coin for Cryptid itself, using smart contracts written in solidty
   - Trading
