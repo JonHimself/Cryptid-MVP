@@ -1,7 +1,7 @@
 # Cryptid
 
 ## What is Cryptid?
-  - Cryptid is a cryptocurrency tracker. User's will be able to get information on the most popular coins, crypto exchanges, historical data, as well as news in the crypto world.
+  - Cryptid is a cryptocurrency tracker. Users will be able to get information on the most popular coins, crypto exchanges, historical data, as well as news in the crypto world.
 
 ## MVP Features:
   - Landing Page :
